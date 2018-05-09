@@ -32,4 +32,4 @@ const getAnagrams = input => {
   return anagrams;
 }
 
-console.log(getAnagrams('testing'));
+console.log(getAnagrams('abc'));
